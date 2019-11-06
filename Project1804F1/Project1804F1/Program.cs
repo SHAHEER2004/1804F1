@@ -14,6 +14,8 @@ namespace Project1804F1
 
             Console.WriteLine("This Is My First Program On C#");
 
+            Console.WriteLine("This Is My Second Program On C#");
+
             Console.ReadLine();
         }
     }
